@@ -2,11 +2,6 @@
 <p style="font-size:20px; line-height: 30px"> Analysis Report about Assignment 3 - Windy Gridworld with King's Moves Problem </p>
 </div>
 
-<div align="center" style="margin: 100px">
-<p align="center" style="font-size:15px; margin:30px"> 1. Lei Xu</p>
-<p align="center" style="font-size:15px"> 2. Peiqi Wang</p>
-</div>
-
 <div style="page-break-after: always"></div>
 
 <div align=center>
